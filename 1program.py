@@ -1,8 +1,4 @@
-
-
-
-
-
+#1.  print hello word 
 
 print("hello core2web")
 
@@ -18,22 +14,22 @@ print(x)
 my_name="shivam"
 print(my_name)
 
-#boolean value 
+#3.  boolean value 
 
 x=True
 y=False
 print(x)
 print(y)
 
-#show type 
+#4.show type 
 
-num=25
+num=:25
 print(type(num))
 
 num1=31.5
 print(type(num1))
 
-# sum of 3 number
+# 5. sum of 3 number
 
 x=10
 y=20
@@ -42,12 +38,12 @@ z=10.5
 w=x+y+z
 print(w)
 
-# create list 
+#6. create list 
 
 my_list=[10,20,30,"shivam","prem"]
 print(my_list)
 
-# assessing list by using index 
+#7.  assessing list by using index 
 
 print(my_list[0])         
 print(my_list[1])
