@@ -1,4 +1,3 @@
-
 # interger input for user 
 x=int(input("Enter number :"))
 print("you entered number",x)
@@ -15,14 +14,11 @@ print("you entered float",x)
 
 # 2 input interger and their sum 
 
-
 x=int(input("Enter number :"))
 y=int(input("Enter number :"))
 print("sum of 5 and 10 is :",x+y)
 
-
 # user name string and age integer
-
 x=str(input("name :"))
 y=int(input("age :"))
 
